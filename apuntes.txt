@@ -1,0 +1,2 @@
+//Cruso Jquery a JavaScript
+localStorage.clear() -> borrar lo almacenado
